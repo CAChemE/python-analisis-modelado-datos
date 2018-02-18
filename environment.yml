@@ -1,0 +1,14 @@
+name: cacheme-datos
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- jupyter
+- pandas=0.22
+- scikit-learn=0.19
+- matplotlib=2
+- numpy
+- scipy
+- bokeh=0.12
+
