@@ -6,7 +6,7 @@ La mejor forma de aprender a programar es haciendo algo útil, por lo que esta i
 
 [https://cacheme.org/curso-introduccion-datos-python/](https://cacheme.org/curso-introduccion-datos-python/)
 
-## Organizacion:
+## Organización:
 
 - Jueves 22 y viernes 23 de febrero de 2018
 - De 15:30 a 18:30 h 
