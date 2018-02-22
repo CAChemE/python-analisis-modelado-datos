@@ -2,7 +2,7 @@
 
 ## pandas & scikit-learn 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CAChemE/python-analisis-modelado-datos/master)
-or [Google CoLab](https://drive.google.com/drive/folders/1iSf-MlBeHKxgouw8ElewojkugORqnNi2?usp=sharing)
+or [Google CoLab](https://drive.google.com/drive/folders/1ZyQJtm_DCh0EJRF-7ted5Xi5hHWFxCi9?usp=sharing)
 
 La mejor forma de aprender a programar es haciendo algo útil, por lo que esta introducción a Python se centrará alrededor de una tarea común: solucionar problemas de análisis y modelado de datos comunes en el entorno académico e industrial. Python dispone de dos librerías principales para ello, pandas y scikit-learn. La primera, pandas, permite el manejo eficiente y sistemático de datos con formato de tabla. La segunda, scikit-learn, reúne los principales algoritmos de Machine Learning (aprendizaje automático) bajo una misma interfaz. Ambas librerías disponen de licencia totalmente libre y gratuita, incluso para empresas. No sorprende, por tanto, que empresas del calibre de Google o Microsoft no solo usen si no que financien dichos proyectos.
 
